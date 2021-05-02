@@ -1,12 +1,11 @@
 # to-do-application
 
 Group 5:
+1. Muhammad Amirul Aiman Bin Ysuoff 1826557
+2. Herda Binti Borhan 1821690
+3. Bhuiyan Md Fahim 1821281
+4. Julyana Binti Rahmad 1912068
 
-Muhammad Amirul Aiman Bin Yusoff 1826557
-Herda Binti Borhan 1821690
-Bhuiyan Md Fahim 1821281
-Julyana Binti Rahmad 1912068
- 
 INTRODUCTION
 
 A to-do app that focuses on a simple daily task. To-do apps are popular with the thousands of apps that are produced each year. There are a lot of to-do list applications available from notepads to digital to-do list application. Some of these applications are free, some are fee-based, but the main objective of all of them is to offer classic task scheduling assistance to help us manage and finish the tasks with ease and on time. The problem with most task applications is 
