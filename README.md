@@ -1,9 +1,9 @@
 # to-do-application
 
 Group 5		:	Muhammad Amirul Aiman Bin Yusoff 1826557
-			      Herda Binti Borhan 1821690
-		      	Bhuiyan Md Fahim 1821281
-	      		Julyana Binti Rahmad 1912068
+			Herda Binti Borhan 1821690
+			Bhuiyan Md Fahim 1821281
+			Julyana Binti Rahmad 1912068
  
 INTRODUCTION
 
